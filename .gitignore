@@ -2,3 +2,6 @@ main
 dist/*
 packer-plugin-scaffolding
 .docs
+
+# fork-only - devcontainer, not for upstream
+/.devcontainer
